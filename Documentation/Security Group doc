@@ -1,1 +1,5 @@
-
+Created OUs and Security Groups
+Finance OU: Contains Finance-Users group. Manages accounting and financial operations.
+HR OU: Contains HR-Users group. Manages employee records and human resources.
+IT OU: Contains IT-Users group. Manages technical support and IT infrastructure.
+Operations OU:Contains Operations-Users group. Manages daily business activities.

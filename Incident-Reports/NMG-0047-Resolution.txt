@@ -1,0 +1,8 @@
+ Jane Cooper could log in to NMG.com but could not access HR resources.
+ I checked Active Directory and found her in the Operations group.
+ I removed her from Operations-Users and added her to HR-Users.
+ I moved her account to the HR OU.
+ I verified her group membership in Active Directory.
+ Ticket: NMG-0047  
+ Date: 11/18/2026  
+ Resolved by: Emmanuel

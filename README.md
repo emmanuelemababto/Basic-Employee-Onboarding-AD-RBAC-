@@ -1,5 +1,5 @@
 # Basic-Employee-Onboarding-AD-RBAC-
-"Active Directory infrastructure rebuild for a fictional company called “Northstar Medical Group”. Includes domain setup, organizational structure, user provisioning, RBAC implementation, and incident resolution.
+"Active Directory infrastructure rebuild for a  company called “Northstar Medical Group”. Includes domain setup, organizational structure, user provisioning, RBAC implementation, and incident resolution.
 # Basic Employee Onboarding (AD & RBAC)
 ### Northstar Medical Group | Identity & Access Management Lab
 

@@ -13,7 +13,7 @@ I built a new Active Directory environment using Windows Server and created the 
 
 ## Video Walkthrough
 
-Video demonstration: Coming Soon – Link Will Be Added
+Video demonstration: https://www.loom.com/share/3a50e2bb82364cb39a5d8d16300846ce
 
 
 ## Tools Used
